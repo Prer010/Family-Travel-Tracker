@@ -13,7 +13,7 @@ This project focuses on implementing **basic PostgreSQL CRUD operations** and co
 - Select and store countries visited by each member
 - Highlight visited countries on a world map
 - View travel data separately for each family member
-- Perform basic **Create, Read, Update, Delete (CRUD)** operations using PostgreSQL
+- Applied basic **Create, Read, Update, Delete (CRUD)** operations using PostgreSQL
 
 ---
 
